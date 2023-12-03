@@ -1,0 +1,36 @@
+
+.recipe {
+    font-family: 'Roboto', sans-serif;
+    
+  }
+  
+  .search-bar,
+  .search-button {
+    font-family: 'Roboto', sans-serif;
+    
+  }
+
+
+.recipe {
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(71, 71, 71, 0.5);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+    align-items: center;
+    min-width: 40%;
+    padding: 20px;
+    text-align: center;
+    color: white;
+  }
+  
+  .image {
+    border-radius: 50%;
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+  }
+
+  
